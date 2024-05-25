@@ -254,7 +254,7 @@ body {
 .sb-skeleton {
 	position: relative;
 	flex: 1 0 auto;
-	height: 2px;
+	height: 4px;
 	background-color: var(--color-gray-dark-3);
 }
 .pg-list > li > span {
@@ -265,8 +265,8 @@ body {
 	left: 0;
 	top: -1px;
 	width: var(--pgbar-length);
-	height: 4px;
-	background-color: var(--profile-theme);
+	height: 8px;
+	background-color: rgb(3, 60, 126);
 }
 .tool-list {
 	list-style: none;
